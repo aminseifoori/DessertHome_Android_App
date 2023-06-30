@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_sharerecepie"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/share"
+        android:title="Share Recepie"/>
+
+    <item
+        android:id="@+id/action_mainviewback"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/back"
+        android:title="Back"
+        />
+
+
+</menu>
